@@ -18,6 +18,7 @@ The project uses spaCy for text processing and TextBlob, via spacytextblob, for 
 Source: 
 - https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
 - Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv 
+
 The dataset consists of Amazon product reviews containing at least the following column:
 - reviews.text -> Raw customer review text
 
